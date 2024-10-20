@@ -1,5 +1,5 @@
-# FHB The Northstar
-## Beliefs, Reality, and Mastery
+# FHB - THE NORTH STAR 💫
+## Important things to remember
 
 ### Introduction
 It doesn’t matter what is true; only what you believe is true—because, with enough effort, those beliefs will become true. Your thoughts create your beliefs, and your beliefs (**বিশ্বাস**) become your reality (**বাস্তবতা**). The universal theory of everything and the master algorithm of evolution (**ক্রমবিকাশ**) is:
