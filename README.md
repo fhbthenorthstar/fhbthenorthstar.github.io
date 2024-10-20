@@ -1,6 +1,6 @@
-#FHB The Northstar
+# FHB The Northstar
 
-Follow me on:
+## Follow me on:
 
 Instagram: https://www.instagram.com/fhbthenorthstar/
 
