@@ -5,8 +5,7 @@ Until you make the unconscious conscious, it will direct your life and you will 
 
 সময়ের শপথ! - মানুষ অবশ্যই ক্ষতিগ্রস্ত। তবে তারা নয়, যারা ঈমান এনে সৎকর্ম করেছে এবং একে অপরকে সত্য ও ধৈর্যের উপদেশ দিয়েছে।
 
-## Important things to remember for the rest of your life.
-### MASTER ALGORITHM OF LIFE
+### MASTER ALGORITHM OF 3D REALITY
 It doesn’t matter what is true; only what you believe is true—because, with enough effort, those beliefs will become true. Your thoughts create your beliefs, and your beliefs (**বিশ্বাস**) become your reality (**বাস্তবতা**). The universal theory of everything and the master algorithm of evolution (**ক্রমবিকাশ**) is:
 
 **Beliefs > Actions > Results > Feedback**
