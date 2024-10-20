@@ -42,8 +42,7 @@ If you judge others, you won't be able to do anything special because you’ll b
 ### Conclusion
 Your beliefs shape your actions, and your actions create your reality. By continually evolving your beliefs, taking deliberate actions, and focusing on growth, you can create the life you want. Take charge of your thoughts, let go of judgment, and become the person you want to be.
 
-
-### GET IN TOUCH:
+---
 
 Instagram: https://www.instagram.com/fhbthenorthstar/
 
