@@ -1,9 +1,5 @@
 # FHB - THE NORTH STAR 💫 PARADIGM
-Know Thyself...
-
-As a man thinketh in his heart, so is he.
-
-Nothing is good or bad, thinking makes it. What if I am just dreaming.?
+Live your true madness the world will adjust.
 
 Until you make the unconscious conscious, it will direct your life and you will call it fate.
 
