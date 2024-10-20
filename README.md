@@ -4,13 +4,13 @@ As a man thinketh in his heart, so is he.
 Nothing is good or bad, thinking makes it. What if I am just dreaming.?
 Until you make the unconscious conscious, it will direct your life and you will call it fate.
 
-**আল্লাহ ছাড়া অন্য কোনো উপাস্য নেই, তিনি জীবিত, সবকিছুর ধারক। তাঁকে তন্দ্রাও স্পর্শ করতে পারে না এবং নিদ্রাও নয়। আসমান ও জমিনে যা কিছু রয়েছে, সবই তাঁর। কে আছ এমন যে সুপারিশ করবে তাঁর কাছে তাঁর অনুমতি ছাড়া? দৃষ্টির সামনে কিংবা পেছনে যা কিছু রয়েছে, সে সবই তিনি জানেন। তাঁর জ্ঞানসীমা থেকে তারা কোনো কিছুকেই পরিবেষ্টিত করতে পারে না, কিন্তু যতটুকু তিনি ইচ্ছা করেন। তাঁর কুরসি (সিংহাসন) সমস্ত আসমান ও জমিনকে পরিবেষ্টিত করে আছে। আর সেগুলোকে ধারণ করা তাঁর পক্ষে কঠিন নয়। তিনিই সর্বোচ্চ এবং সর্বাপেক্ষা মহান।
+আল্লাহ ছাড়া অন্য কোনো উপাস্য নেই, তিনি জীবিত, সবকিছুর ধারক। তাঁকে তন্দ্রাও স্পর্শ করতে পারে না এবং নিদ্রাও নয়। আসমান ও জমিনে যা কিছু রয়েছে, সবই তাঁর। কে আছ এমন যে সুপারিশ করবে তাঁর কাছে তাঁর অনুমতি ছাড়া? দৃষ্টির সামনে কিংবা পেছনে যা কিছু রয়েছে, সে সবই তিনি জানেন। তাঁর জ্ঞানসীমা থেকে তারা কোনো কিছুকেই পরিবেষ্টিত করতে পারে না, কিন্তু যতটুকু তিনি ইচ্ছা করেন। তাঁর কুরসি (সিংহাসন) সমস্ত আসমান ও জমিনকে পরিবেষ্টিত করে আছে। আর সেগুলোকে ধারণ করা তাঁর পক্ষে কঠিন নয়। তিনিই সর্বোচ্চ এবং সর্বাপেক্ষা মহান।
 ---
 সময়ের শপথ! 
-মানুষ অবশ্যই ক্ষতিগ্রস্ত। তবে তারা নয়, যারা ঈমান এনে সৎকর্ম করেছে এবং একে অপরকে সত্য ও ধৈর্যের উপদেশ দিয়েছে।**
+মানুষ অবশ্যই ক্ষতিগ্রস্ত। তবে তারা নয়, যারা ঈমান এনে সৎকর্ম করেছে এবং একে অপরকে সত্য ও ধৈর্যের উপদেশ দিয়েছে।
 
 ## Important things to remember for the rest of your life.
-### MASTER ALGORITHM
+### MASTER ALGORITHM OF LIFE
 It doesn’t matter what is true; only what you believe is true—because, with enough effort, those beliefs will become true. Your thoughts create your beliefs, and your beliefs (**বিশ্বাস**) become your reality (**বাস্তবতা**). The universal theory of everything and the master algorithm of evolution (**ক্রমবিকাশ**) is:
 
 **Beliefs > Actions > Results > Feedback**
@@ -48,7 +48,7 @@ If you judge others, you won't be able to do anything special because you’ll b
 Your beliefs shape your actions, and your actions create your reality. By continually evolving your beliefs, taking deliberate actions, and focusing on growth, you can create the life you want. Take charge of your thoughts, let go of judgment, and become the person you want to be.
 
 
-## Follow me on:
+### GET IN TOUCH:
 
 Instagram: https://www.instagram.com/fhbthenorthstar/
 
