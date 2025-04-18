@@ -1,6 +1,6 @@
 /*
- * Author: ArtStyles (FHB - The North Star)
- * Template Name: FHB - The North Star 4
+ * Author: ArtStyles (ArtTemplate)
+ * Template Name: vCard 4
  * Version: 1.0.0
 */
 
