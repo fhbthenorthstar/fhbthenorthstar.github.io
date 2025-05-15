@@ -67,10 +67,18 @@
               <div class="separation"></div>
               <ul class="details-info">
                 <!-- Email -->
+                 <li class="details-info__item">
+                  <span class="box icon-box"><i class="font-icon icon-youtube"></i></span>
+                  <div class="contacts-block__info">
+                    <span class="overhead">Youtube</span>
+                    <a class="text-overflow" href="https://www.youtube.com/@fhbthenorthstar/videos" target="blank"
+                      title="@fhbthenorhstar">@fhbthenorhstar</a>
+                  </div>
+                </li>
                 <li class="details-info__item">
                   <span class="box icon-box"><i class="font-icon icon-envelope"></i></span>
                   <div class="contacts-block__info">
-                    <span class="overhead">Gmail</span>
+                    <span class="overhead">Gmail.com</span>
                     <a class="text-overflow" href="mailto:forhadhossenbabu@gmail.com"
                       title="forhadhossenbabu@gmail.com">forhadhossenbabu</a>
                   </div>
@@ -290,8 +298,8 @@
 
             <!-- Clients -->
             <h2 class="title title--h2 mt-4">My tools and technologies</h2>
-            <div class="swiper-container js-carousel-clients">
-              <div class="swiper-wrapper">
+            <!-- <div class="">
+              <div class="">
                 <figure class="swiper-slide">
                   <img src="assets/images/clients/1.png" alt="Logo" />
                 </figure>
@@ -346,7 +354,98 @@
               </div>
 
               <div class="swiper-pagination"></div>
-            </div>
+            </div> -->
+<style>
+  .clients-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 16px;
+  }
+
+  .clients-container .swiper-slide {
+    flex: 1 1 calc(33.333% - 16px);
+    max-width: calc(33.333% - 16px);
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+  }
+
+  .clients-container img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  @media (max-width: 768px) {
+    .clients-container .swiper-slide {
+      flex: 1 1 calc(50% - 16px);
+      max-width: calc(50% - 16px);
+    }
+  }
+
+  @media (max-width: 480px) {
+    .clients-container .swiper-slide {
+      flex: 1 1 100%;
+      max-width: 100%;
+    }
+  }
+</style>
+
+<div class="clients-container">
+  <figure class="swiper-slide">
+    <img src="assets/images/clients/1.png" alt="Logo" />
+  </figure>
+  <figure class="swiper-slide">
+    <img src="assets/images/clients/2.png" alt="Logo" />
+  </figure>
+  <figure class="swiper-slide">
+    <img src="assets/images/clients/3.png" alt="Logo" />
+  </figure>
+  <figure class="swiper-slide">
+    <img src="assets/images/clients/4.png" alt="Logo" />
+  </figure>
+  <figure class="swiper-slide">
+    <img src="assets/images/clients/5.png" alt="Logo" />
+  </figure>
+  <figure class="swiper-slide">
+    <img src="assets/images/clients/6.png" alt="Logo" />
+  </figure>
+  <figure class="swiper-slide">
+    <img src="assets/images/clients/7.png" alt="Logo" />
+  </figure>
+  <figure class="swiper-slide">
+    <img src="assets/images/clients/8.svg" alt="Logo" />
+  </figure>
+  <figure class="swiper-slide">
+    <img src="assets/images/clients/9.png" alt="Logo" />
+  </figure>
+  <figure class="swiper-slide">
+    <img src="assets/images/clients/10.png" alt="Logo" />
+  </figure>
+  <figure class="swiper-slide">
+    <img src="assets/images/clients/11.png" alt="Logo" />
+  </figure>
+  <figure class="swiper-slide">
+    <img src="assets/images/clients/12.png" alt="Logo" />
+  </figure>
+  <figure class="swiper-slide">
+    <img src="assets/images/clients/13.webp" alt="Logo" />
+  </figure>
+  <figure class="swiper-slide">
+    <img src="assets/images/clients/14.png" alt="Logo" />
+  </figure>
+  <figure class="swiper-slide">
+    <img src="assets/images/clients/15.png" alt="Logo" />
+  </figure>
+  <figure class="swiper-slide">
+    <img src="assets/images/clients/16.png" alt="Logo" />
+  </figure>
+  <figure class="swiper-slide">
+    <img src="assets/images/clients/17.png" alt="Logo" />
+  </figure>
+</div>
             <!-- /swiper-container -->
           </div>
           <!-- box-outer -->
